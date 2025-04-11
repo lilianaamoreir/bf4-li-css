@@ -1,0 +1,19 @@
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+.heading{
+    font-size: 30px;
+}
+.content {
+    font-size: 40px;
+}
+.first p {
+    color: blueviolet;
+}
+section ~ h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: chartreuse;
+}
