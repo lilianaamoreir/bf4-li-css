@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    border: 1px solid #efe8e8;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    text-align: center;
+    margin: 12px auto;
+    width: 50%;
+    padding: 50px;
+}
+.wrapper{
+    width: 100%;
+    border: 2px #847e7e;
+}
+img{
+    width: 100%;
+    background-color: #847e7e;
+}
+.shoesname{
+    font-size: 20px;
+    
+}
+.price{
+    text-align: left;
+    margin: 10px 10%;
+    font-size: 40px;
+}
+small{
+    font-size: 20px;
+    text-decoration: line-through;
+}button{
+    background-color: black;
+    color: #ffffff;
+    font-size: 25px;
+    border-radius: 7px;
+    padding: 10px;
+    width: 100%;
+}
